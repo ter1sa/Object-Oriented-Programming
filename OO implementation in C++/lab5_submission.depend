@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1636370337 source:c:\users\sazih\onedrive\documents\dsai\cz2002\lab\lab5_submission\animal.cpp
+	<iostream>
+	<string>
+	"animal.h"
+	"childAnimal.h"
+
+1636370337 c:\users\sazih\onedrive\documents\dsai\cz2002\lab\lab5_submission\include\animal.h
+
+1636370337 c:\users\sazih\onedrive\documents\dsai\cz2002\lab\lab5_submission\include\childanimal.h
+	"animal.h"
+

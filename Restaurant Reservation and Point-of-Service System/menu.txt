@@ -1,0 +1,108 @@
+Mushroom Soup
+A creamy and tasty soup made from wild mushrooms
+8.0
+0
+1
+false
+
+
+
+Whole roasted cauliflower
+(Vegetarian) A whole cauliflower is roasted in the oven until golden and tender. Seasoned with Zaatar and drizzled with tahini sauce its a delight for the senses -bursting with Middle Eastern flavours. Easy and delicious, it serves 2 perfectly!
+7.0
+5
+1
+false
+
+
+
+Lasagne
+Traditional oven-baked, served with aged parmesan cheese
+19.0
+1
+2
+false
+
+
+
+Lentil Bolognese
+(Vegetarian) Rich and robust, this plant-based Lentil Bolognese is hearty, “meaty” and full of depth of flavour. Toss it with your favourite pasta, or spoon it over creamy polenta- either way, this simple nourishing vegan meal is one the whole family will enjoy.
+17.5
+6
+2
+false
+
+
+
+Vegetable Biryani
+(Vegetarian) An aromatic Indian rice dish with vegetables and chickpeas- infused with Indian spices.  A quick and easy vegan dinner recipe, perfect any time of year.  Serve with Cilantro-Mint Chutney.
+15.5
+7
+2
+false
+
+
+
+Impossible Burger
+(Vegetarian) Since a customer requested for it, we decided to add it, and now it's one of the most popular dish in our menu! Taste like a real beef burger but isn't! Try it now!
+21.7
+8
+2
+false
+
+
+
+Tiramisu
+Classic tiramisu, served with espresso coffee sauce.
+11.5
+2
+3
+false
+
+
+
+Red Velvet Cake
+One bite and you will feel that Red Velvet is literally dancing in your mouth!
+12.5
+11
+3
+false
+
+
+
+House Wine
+Glass of Chateau Margot 1995
+15.0
+3
+4
+false
+
+
+
+Mocha Frappuccino
+For those with a sweet tooth.
+11.95
+10
+4
+false
+
+
+
+Chicken and Coke
+The best combination after Chicken and Beer. Have it while waiting for Christmas!
+14.0
+4
+5
+true
+2022|0|1|
+2022|0|19|
+
+Christmas Platter
+Taste the festival! Share it with your friends and family!
+122.5
+9
+5
+true
+2021|11|1|
+2021|11|31|
+
